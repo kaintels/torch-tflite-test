@@ -11,6 +11,6 @@
 
 4. make directory ./tflite `mkdir tflite`
 
-5. get pb files `python export_tflite.py`
+5. get tflite files `python export_tflite.py`
 
 You can check dependancy lib from `requirements.txt`
